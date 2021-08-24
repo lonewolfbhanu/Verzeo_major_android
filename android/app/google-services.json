@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "721669845807",
+    "firebase_url": "https://verzeo-major-b05-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "verzeo-major-b05",
+    "storage_bucket": "verzeo-major-b05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721669845807:android:e30527f5b313230249a7da",
+        "android_client_info": {
+          "package_name": "com.example.navigation_drawer_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721669845807-lh317n68s8s06bk483qll3fgitilh6rr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.navigation_drawer_example",
+            "certificate_hash": "af65248faca8f2bb4ea8e2a4cdd813ccecaf1647"
+          }
+        },
+        {
+          "client_id": "721669845807-csl4u1mjvm8md9sj0bu1ac9vmq9togbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4-FdoHtTD9Bfl6n3LPGGida0ncf_tlGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721669845807-csl4u1mjvm8md9sj0bu1ac9vmq9togbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
